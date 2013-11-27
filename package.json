@@ -1,0 +1,29 @@
+{
+  "name": "connect-session-as-promised",
+  "version": "0.0.0",
+  "description": "Because connect sessions depend too heavily on `this`",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/phated/connect-session-as-promised"
+  },
+  "keywords": [
+    "connect",
+    "sessions",
+    "promises"
+  ],
+  "author": "Blaine Bublitz <blaine@iceddev.com> (http://iceddev.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phated/connect-session-as-promised/issues"
+  },
+  "dependencies": {
+    "when": "~2.6.0"
+  },
+  "devDependencies": {
+    "tap": "~0.4.6"
+  }
+}
