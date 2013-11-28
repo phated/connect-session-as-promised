@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/phated/connect-session-as-promised.png?branch=master)](https://travis-ci.org/phated/connect-session-as-promised)
+
 connect-session-as-promised
 ===========================
 
